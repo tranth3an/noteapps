@@ -62,7 +62,7 @@ Tạo composite index cho collection `notes`:
 
 ```bash
 # Clone repo
-git clone https://github.com/tranth3an/noteapps
+git clone https://github.com/tranth3an/noteapps.git
 cd notes-app
 ```
 
@@ -98,7 +98,6 @@ npm install
 
 # Copy và điền thông tin Firebase
 cp .env.example .env
-# Mở .env và điền các giá trị Firebase config
 
 # Chạy
 npm start
