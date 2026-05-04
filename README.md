@@ -122,5 +122,5 @@ Frontend sẽ chạy tại: http://localhost:3000
 ---
 
 ## Video Demo
+https://drive.google.com/drive/folders/1IGKvB9NofRAgYVW2YMQ98WTxZTyMTByq?usp=drive_link
 
-> 🎬 [Link video demo](your-video-link-here)
